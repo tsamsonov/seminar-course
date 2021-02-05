@@ -12,7 +12,8 @@ h3 { margin-top: 0;}
 .left-column { font-size: 12pt; color: black;}
 .red { color: crimson; }
 .blue { color: steelblue; }
-.large { font-size: 20pt; }
+.green { color: forestgreen; }
+.large { font-size: 22pt; }
 .small { font-size: 14pt;}
 .remark-inline-code { color: darkgreen; background-color: #d9f2d9; font-size: 14pt; font-family: 'Menlo'; padding: 3px; border-radius: 5px;}
 .remark-code { font-family: 'Menlo'; font-size: 11pt;}
